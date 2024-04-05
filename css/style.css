@@ -1,7 +1,6 @@
 @charset "UTF-8"; /* 文字コードの指定 */
 
-/* Base
-------------------------------------------------------------*/
+
 
 body {
   font-family: 'Noto Sans JP', sans-serif;
@@ -26,9 +25,6 @@ img{
 }
 
 
-/* 複数箇所で使いまわす指定
-------------------------------------------------------------*/
-
 .text-center {
   text-align: center;
 }
@@ -46,7 +42,7 @@ header {
   .button-menu {
     padding: 1.25rem;
     margin: 0 0 0 auto;
-    font-size: 2.25rem;
+    font-size: 3.25rem;
     line-height: 0;
     color: #a8a698;
   }

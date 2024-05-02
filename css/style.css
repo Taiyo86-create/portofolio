@@ -130,7 +130,7 @@ header {
     display: flex;
     justify-content: space-between;
     max-width: 67.5rem;
-    margin: 0 auto;
+    margin: 30px auto;
   }
   
   .skills-box {
@@ -150,6 +150,10 @@ header {
   
   .color-c {
     background-color: #d94665;
+  }
+
+  .color-d{
+    background-color: rgb(237, 237, 67);
   }
   
   .skills-box-heading {

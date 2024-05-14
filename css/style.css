@@ -190,11 +190,16 @@ header {
   }
 
   h2 {
-    margin: 0 0 5rem;
     font-size: 3rem;
     font-weight: 300;
     color: #a8a698;
     letter-spacing: .3125rem;
+  }
+
+  .works p{
+    text-align: center;
+    color: #a8a698;
+    margin-bottom: 3rem;
   }
 
   .works {
@@ -248,4 +253,3 @@ header {
     background-color: #a8a698;
   }
 
-  

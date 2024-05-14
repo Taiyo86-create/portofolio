@@ -223,6 +223,15 @@ header {
     background-color: #fff;
     box-shadow: -1rem 1.25rem 1rem rgba(0, 0, 0, 0.04);
   }
+
+  .works-box-bottom{
+    position: relative;
+    width: 32%;
+    color: #555;
+    background-color: #fff;
+    box-shadow: -1rem 1.25rem 1rem rgba(0, 0, 0, 0.04);
+    padding: 0 1.25rem;
+  }
   
   .works-box-inner {
     height: 7.5rem;
@@ -242,6 +251,13 @@ header {
     bottom: 1.25rem;
     font-size: .75rem;
     color: #a8a698;
+  }
+
+  .overview{
+    text-decoration: none;
+    color: #a8a698;
+    padding: 10px 5px;
+    border-radius: 10px;
   }
 
   footer {

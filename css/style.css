@@ -197,7 +197,7 @@ header {
     column-gap: 2%;
     row-gap: 2.5rem;
     max-width: 67.5rem;
-    margin: 0 auto;
+    margin: 10px auto;
   }
   
   .works-box {

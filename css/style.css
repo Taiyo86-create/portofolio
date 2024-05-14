@@ -73,8 +73,13 @@ header {
     color: #071e3d;
   }
   .profile-introduction {
-    margin: 0 0 3.75rem;
+    margin: 1rem 0;
   }
+
+  .profile-text ul{
+    margin-bottom: 1rem;
+  }
+
   .profile-image {
     margin: 3.75rem 0 0 2.5rem;
     border-radius: 50%;

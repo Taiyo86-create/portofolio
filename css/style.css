@@ -158,9 +158,16 @@ header {
   }
 
   .color-d{
-    background-color: rgb(227, 163, 26);
+    background-color: #039BE5;
   }
   
+  .color-e{
+    background-color: #F05138;
+  }
+
+  .color-f{
+    background-color: #FF9900;
+  }
 
   .skills-box-heading {
     display: flex;
